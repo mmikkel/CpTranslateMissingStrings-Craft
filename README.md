@@ -1,4 +1,4 @@
-# CP Translate Missing Fields v. 1.0 for Craft CMS ![Craft 2.5](https://img.shields.io/badge/craft-2.5-red.svg?style=flat-square)
+# CP Translate Missing Strings v. 1.0 for Craft CMS ![Craft 2.5](https://img.shields.io/badge/craft-2.5-red.svg?style=flat-square)
 
 Most strings inside Craft's Control Panel are translated (i.e. ran through `Craft::t()` before being output to the page) – but not all.
 
